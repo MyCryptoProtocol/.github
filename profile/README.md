@@ -19,11 +19,11 @@ AI integration with crypto is fragmented and non-scalable due to bespoke integra
 
 This monorepo contains the following components:
 
-- [**mcp-core**](./mcp-core/): Core protocol logic with Solana programs for registry, permissions, and execution tracking
-- [**mcp-agents**](./mcp-agents/): Agent templates and execution engines with prebuilt AI agents
-- [**mcp-server**](./mcp-server/): Reference MCP server implementation with context handling and wallet integration
-- [**mcp-examples**](./mcp-examples/): Full workflow examples using real-world Solana services
-- [**mcp-docs**](./mcp-docs/): Protocol documentation, architecture, and tutorials
+- [**mcp-core**](https://github.com/MyCryptoProtocol/mcp-core): Core protocol logic with Solana programs for registry, permissions, and execution tracking
+- [**mcp-agents**](https://github.com/MyCryptoProtocol/mcp-agents): Agent templates and execution engines with prebuilt AI agents
+- [**mcp-server**](https://github.com/MyCryptoProtocol/mcp-server): Reference MCP server implementation with context handling and wallet integration
+- [**mcp-examples**](https://github.com/MyCryptoProtocol/mcp-examples): Full workflow examples using real-world Solana services
+- [**mcp-docs**](https://github.com/MyCryptoProtocol/mcp-docs): Protocol documentation, architecture, and tutorials
 
 ## Why Now?
 
