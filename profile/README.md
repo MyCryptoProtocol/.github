@@ -24,6 +24,7 @@ This monorepo contains the following components:
 - [**mcp-server**](https://github.com/MyCryptoProtocol/mcp-server): Reference MCP server implementation with context handling and wallet integration
 - [**mcp-examples**](https://github.com/MyCryptoProtocol/mcp-examples): Full workflow examples using real-world Solana services
 - [**mcp-docs**](https://github.com/MyCryptoProtocol/mcp-docs): Protocol documentation, architecture, and tutorials
+- [**community**](./community): Community resources, governance processes, and contribution guidelines
 
 ## Why Now?
 
@@ -33,9 +34,31 @@ AI is centralized, crypto is decentralized. This protocol bridges them, leveragi
 
 Each MCP server exposes context-aware, domain-specific functionality (e.g., Binance, Twitter, smart contracts) in a machine-readable format, enabling AI agents to interact securely and intelligently.
 
+### MCP Server Ecosystem
+
+The community has developed numerous specialized MCP servers that extend the protocol's capabilities:
+
+- [**Binance MCP Server**](https://github.com/qeinfinity/binance-mcp-server): Real-time market data streaming for Binance markets
+- [**CoinGecko MCP Server**](https://github.com/crazyrabbitLTC/mcp-coingecko-server): Cryptocurrency market data and price tracking
+- [**Solana Agent Kit**](https://github.com/sendaifun/solana-mcp): Solana blockchain interaction and wallet management
+- [**Crypto Sentiment MCP**](https://github.com/kukapay/crypto-sentiment-mcp): Cryptocurrency sentiment analysis from social media
+
+See the [Community Showcase](./community/resources/SHOWCASE.md) for a complete list of community-built MCP servers.
+
 ## Token Model & Ecosystem
 
 $MCP powers decentralized governance, usage, and staking, with network effects tied directly to protocol utility, not speculation.
+
+## Getting Started
+
+## Community
+
+MCP is built with a community-first approach. We welcome contributions from developers, content creators, and crypto enthusiasts of all backgrounds.
+
+- [**Contribution Guidelines**](./community/resources/CONTRIBUTING.md): How to contribute to the project
+- [**Governance**](./community/governance): Decision-making processes and improvement proposals
+- [**Events**](./community/events): Community calls, hackathons, and meetups
+- [**Rewards Program**](./community/rewards): Incentives for community contributions
 
 ## Getting Started
 
@@ -72,6 +95,14 @@ Started with an anonymous dev sharing ideas on social media. Transparent, commun
 ## Vision
 
 MyCryptoProtocol is building the decentralized intelligence layer for crypto, where agents serve people, not platforms.
+
+## Join the Community
+
+- **Discord**: [Join our Discord server](https://discord.gg/mycryptoprotocol)
+- **Twitter**: [@MyCryptoProtocol](https://twitter.com/MyCryptoProtocol)
+- **GitHub Discussions**: [Start or join a discussion](https://github.com/MyCryptoProtocol/mcp-core/discussions)
+
+We hold weekly community calls every Wednesday at 12:00 UTC. All are welcome to join and contribute!
 
 ## Contributing
 
